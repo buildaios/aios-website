@@ -16,6 +16,7 @@ const links = {
     { label: "Architecture", href: "https://hackmd.io/@P-KZQBsRQFq7YYv5GNs7dw/SyuRTgdWze" },
     { label: "Roadmap", href: "#roadmap" },
     { label: "Documentation", href: "https://github.com/buildaios/Docs" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/company/buildaios/about/?viewAsMember=true" },
   ],
   legal: [
     { label: "GPL v3 License", href: "https://www.gnu.org/licenses/gpl-3.0.html" },
