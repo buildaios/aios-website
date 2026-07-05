@@ -90,7 +90,7 @@ export function JoinTeam() {
           transition={{ duration: 0.6, delay: 0.5 }}
         >
           <a
-            href="https://github.com/buildaios/fedora-ai-operating-system"
+            href="https://github.com/buildaios"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 px-8 py-3 rounded-lg bg-cyan-400 text-black font-semibold hover:bg-cyan-300 transition-all duration-300"

@@ -23,13 +23,13 @@ const links = [
     icon: GithubIcon,
     label: "GitHub",
     description: "Source code, issues, and pull requests",
-    href: "https://github.com/qtt7715-ux/fedora-ai-operating-system",
+    href: "https://github.com/buildaios",
   },
   {
     icon: BookOpen,
     label: "Documentation",
     description: "Implementation docs and architecture guides",
-    href: "https://github.com/qtt7715-ux/fedora-ai-operating-system/tree/main/docs",
+    href: "https://github.com/buildaios/Docs",
   },
   {
     icon: FileText,
@@ -41,7 +41,7 @@ const links = [
     icon: MessageSquare,
     label: "Discussions",
     description: "Design decisions and community input",
-    href: "https://github.com/qtt7715-ux/fedora-ai-operating-system/discussions",
+    href: "https://github.com/orgs/buildaios/discussions",
   },
 ];
 

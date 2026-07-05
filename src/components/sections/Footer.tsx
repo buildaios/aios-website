@@ -12,10 +12,10 @@ function GithubIcon({ className }: { className?: string }) {
 
 const links = {
   project: [
-    { label: "GitHub Hub", href: "https://github.com/buildaios/fedora-ai-operating-system" },
+    { label: "GitHub Hub", href: "https://github.com/buildaios" },
     { label: "Architecture", href: "https://hackmd.io/@P-KZQBsRQFq7YYv5GNs7dw/SyuRTgdWze" },
     { label: "Roadmap", href: "#roadmap" },
-    { label: "Documentation", href: "https://github.com/buildaios/fedora-ai-operating-system/tree/main/docs" },
+    { label: "Documentation", href: "https://github.com/buildaios/Docs" },
   ],
   legal: [
     { label: "GPL v3 License", href: "https://www.gnu.org/licenses/gpl-3.0.html" },
