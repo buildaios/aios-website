@@ -22,7 +22,8 @@ BuildAIOS is an independent open-source organization building an AI-first operat
 
 The official BuildAIOS organization badge and logo:
 
-![BuildAIOS Logo](/logo.png)
+<img width="1254" height="1254" alt="ChatGPT Image Jul 5, 2026, 01_23_37 AM" src="https://github.com/user-attachments/assets/1ad294e7-65fe-4035-9203-02c91b4dd1eb" />
+
 
 ---
 
