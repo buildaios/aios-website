@@ -12,7 +12,7 @@ function GithubIcon({ className }: { className?: string }) {
 
 const links = {
   project: [
-    { label: "GitHub Hub", href: "https://github.com/buildaios" },
+    { label: "GitHub", href: "https://github.com/buildaios" },
     { label: "Architecture", href: "https://hackmd.io/@P-KZQBsRQFq7YYv5GNs7dw/SyuRTgdWze" },
     { label: "Roadmap", href: "#roadmap" },
     { label: "Documentation", href: "https://github.com/buildaios/Docs" },
