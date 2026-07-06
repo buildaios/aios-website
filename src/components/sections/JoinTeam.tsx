@@ -99,7 +99,9 @@ export function JoinTeam() {
             <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
           </a>
           <a
-            href="mailto:founder@buildaios.dev"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=founder@buildaios.dev"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-3 rounded-lg border border-[#1f1f1f] hover:border-[#2a2a2a] text-[#a1a1aa] font-semibold hover:text-[#fafafa] transition-all duration-300"
           >
             Contact Founder
