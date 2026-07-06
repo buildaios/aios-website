@@ -21,7 +21,7 @@ const links = {
   legal: [
     { label: "GPL v3 License", href: "https://www.gnu.org/licenses/gpl-3.0.html" },
     { label: "Join the Team", href: "#join" },
-    { label: "Contact Founder", href: "mailto:founder@buildaios.dev" },
+    { label: "Contact Founder", href: "https://mail.google.com/mail/?view=cm&fs=1&to=founder@buildaios.dev" },
   ],
 };
 
