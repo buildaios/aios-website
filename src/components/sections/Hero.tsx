@@ -218,10 +218,12 @@ export function Hero() {
             <ArrowDownRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
           </a>
           <a
-            href="#roadmap"
+            href="https://hackmd.io/@P-KZQBsRQFq7YYv5GNs7dw/SyuRTgdWze"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-3 rounded-lg glass text-[#a1a1aa] font-medium hover:text-[#fafafa] hover:border-[#2a2a2a] transition-all duration-300"
           >
-            View Roadmap
+            Read Architecture
           </a>
         </motion.div>
       </div>
