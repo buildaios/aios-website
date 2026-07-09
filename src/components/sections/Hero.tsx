@@ -208,13 +208,13 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.3 }}
         >
           <a
-            href="https://hackmd.io/@P-KZQBsRQFq7YYv5GNs7dw/SyuRTgdWze"
+            href="https://github.com/buildaios"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 px-8 py-3 rounded-lg bg-[#06b6d4] text-black font-medium hover:bg-[#22d3ee] transition-all duration-300"
           >
             <Cpu className="w-4 h-4" />
-            Read Architecture
+            GitHub
             <ArrowDownRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
           </a>
           <a
